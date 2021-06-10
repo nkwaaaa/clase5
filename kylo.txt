@@ -1,3 +1,7 @@
 I'll finish what you started. 
 Soy un asco de personaje.
+<<<<<<< HEAD
 Esta línea la escribí yo
+=======
+LA MAJO ESTUVO AQUI
+>>>>>>> fa8f9eddd5bfd169316482f0b6fb25ec1c0dabf3
